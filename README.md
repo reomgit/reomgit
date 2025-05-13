@@ -13,7 +13,8 @@ I am a freshman highschooler currently living in japan. My work is mostly on con
 [![](https://visitcount.itsvg.in/api?id=reomgit&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/reom67) 
+  These donations are used to fund my documentary video projects, for aiming higher quality content.
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/reom67) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
