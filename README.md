@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a freshman highschooler currently living in japan. My work is mostly on content creation, and graphic design. In my free time, I like to 3d-model/print fun and useful items. I use github because I started liking coding (which was actually my worst fear at one point), but I mainly use it for my Portfolio:<br>https://stoppy.work.
+I am a freshman highschool student currently living in japan. My work is mostly on content creation, and graphic design. In my free time, I like to 3d-model/print fun and useful items. I use github because I started liking coding (which was actually my worst fear at one point), but I mainly use it for my Portfolio:<br>https://stoppy.work.
 
 
 # 💻 Tech Stack:
