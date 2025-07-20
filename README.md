@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a highschool student currently living in japan. I'm confident enough to say that I am a beginner frontend/backend developer. My work is mostly on content creation, and graphic design. 
+I am a highschool student currently living in japan. I'm confident enough to say that I am a beginner frontend/backend developer. My work is mostly on content creation, and graphic design. <br/>
 In my free time, I like to 3d-model/print fun and useful items. I use started to use github because of coding (which was actually my worst fear at one point), mainly for my Portfolio:<br>https://stoppy.work.
 
 
