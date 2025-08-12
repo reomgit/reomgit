@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a highschool student currently living in japan. I'm confident enough to say that I am a beginner frontend/backend developer. My work is mostly on content creation, and graphic design. <br/>
-In my free time, I like to vibe code. (not actual coding, that is never happening.) I mainly work on my Portfolio and a design studio store that's coming up: designforge.space
+In my free time, I like to vibe code. (not actual coding, that is never happening.) I mainly work on my Portfolio and a design studio store that's coming up: https://designforge.space
 
 
 # 💻 Tech Stack:
